@@ -15,9 +15,9 @@
    id="svg8"
    sodipodi:docname="Icon.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   inkscape:export-filename="D:\dev\pomodoro\Icon.png"
-   inkscape:export-xdpi="11.26"
-   inkscape:export-ydpi="11.26">
+   inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+   inkscape:export-xdpi="61.6492"
+   inkscape:export-ydpi="61.6492">
   <defs
      id="defs2">
     <filter
@@ -137,6 +137,42 @@
          stdDeviation="2.4865146"
          id="feGaussianBlur2786" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath90">
+      <path
+         style="fill:#de1300;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 35.355337,278.8021 C 33.335032,393.95947 137.88582,500.02553 262.1346,490.93414 386.38336,481.84275 477.80217,437.90113 499.01537,289.91376 520.22857,141.92643 357.15004,71.220568 290.41885,70.205602 262.29554,69.777854 257.04849,84.470994 223.64121,82.387356 132.66851,76.713329 39.894876,149.63482 35.355337,278.8021 Z"
+         id="path92"
+         sodipodi:nodetypes="cssssc"
+         inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+         inkscape:export-xdpi="72.244316"
+         inkscape:export-ydpi="72.244316" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96">
+      <path
+         style="fill:#de1300;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 35.355337,278.8021 C 33.335032,393.95947 137.88582,500.02553 262.1346,490.93414 386.38336,481.84275 477.80217,437.90113 499.01537,289.91376 520.22857,141.92643 357.15004,71.220568 290.41885,70.205602 262.29554,69.777854 257.04849,84.470994 223.64121,82.387356 132.66851,76.713329 39.894876,149.63482 35.355337,278.8021 Z"
+         id="path98"
+         sodipodi:nodetypes="cssssc"
+         inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+         inkscape:export-xdpi="72.244316"
+         inkscape:export-ydpi="72.244316" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath102">
+      <path
+         style="fill:#de1300;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 35.355337,278.8021 C 33.335032,393.95947 137.88582,500.02553 262.1346,490.93414 386.38336,481.84275 477.80217,437.90113 499.01537,289.91376 520.22857,141.92643 357.15004,71.220568 290.41885,70.205602 262.29554,69.777854 257.04849,84.470994 223.64121,82.387356 132.66851,76.713329 39.894876,149.63482 35.355337,278.8021 Z"
+         id="path104"
+         sodipodi:nodetypes="cssssc"
+         inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+         inkscape:export-xdpi="72.244316"
+         inkscape:export-ydpi="72.244316" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -146,8 +182,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="222.97675"
-     inkscape:cy="221.1817"
+     inkscape:cx="62.22183"
+     inkscape:cy="281.19299"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -165,7 +201,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,7 +214,10 @@
        style="fill:#de1300;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 53.186636,144.32554 c -0.534539,30.46872 27.127856,58.53203 60.002014,56.1266 32.87415,-2.40543 57.06204,-14.03165 62.6747,-53.18664 5.61266,-39.15498 -37.5352,-57.862574 -55.19116,-58.131117 -7.44096,-0.113175 -8.82924,3.774385 -17.66825,3.223089 C 78.934079,90.856219 54.387722,110.15003 53.186636,144.32554 Z"
        id="path888"
-       sodipodi:nodetypes="cssssc" />
+       sodipodi:nodetypes="cssssc"
+       inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+       inkscape:export-xdpi="72.244316"
+       inkscape:export-ydpi="72.244316" />
     <ellipse
        style="opacity:0.91483516;fill:#ff957e;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter1592)"
        id="path922"
@@ -206,12 +245,14 @@
        id="path930"
        style="fill:#f47d6d;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.47252747;filter:url(#filter1256)"
        d="M 36.648438 260.28125 C 36.01596 266.32062 35.577248 272.49226 35.355469 278.80273 C 33.335164 393.9601 137.88598 500.02498 262.13477 490.93359 C 386.38352 481.8422 477.80242 437.90143 499.01562 289.91406 C 499.69695 285.16102 500.18373 280.48839 500.49414 275.89453 C 467.01323 308.62276 341.73098 424.3865 243.57227 425 C 129.10135 421.06965 65.317224 321.85088 36.648438 260.28125 z "
-       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)" />
+       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)"
+       clip-path="url(#clipPath90)" />
     <path
        id="path933"
        style="fill:#f7b4ad;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;filter:url(#filter2388)"
        d="M 197.28125 94.917969 C 189.81724 94.859011 175.43465 96.690335 147.73438 103.79297 C 118.76373 111.22134 93.271648 134.24496 74.791016 155.79102 C 68.099963 165.11569 62.095115 175.27041 56.902344 186.2207 C 75.919256 167.72067 112.02222 133.74903 137.12891 117.42969 C 167.96173 101.77465 182.58602 104.13063 205.31445 97.480469 C 205.31445 97.480469 205.74046 94.984787 197.28125 94.917969 z "
-       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)" />
+       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)"
+       clip-path="url(#clipPath96)" />
     <path
        style="fill:#f9c7c3;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;filter:url(#filter2508)"
        d="m 103.36649,97.687007 -5.33014,-0.669523 -3.283667,0.755952 0.779576,0.74414 7.205171,-0.106304 z"
@@ -232,7 +273,8 @@
        id="path941"
        style="fill:#e67b6f;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.99607843;opacity:0.59340659;filter:url(#filter2692)"
        d="M 375.39844 119.83008 C 375.39844 119.83008 497.77398 191.78908 500.49414 275.89453 C 503.18423 236.08248 492.2888 202.24558 473.87109 174.20703 C 449.57022 149.14551 416.9236 126.40959 375.39844 119.83008 z "
-       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)" />
+       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)"
+       clip-path="url(#clipPath102)" />
     <path
        style="fill:#7f7e3a;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 92.118661,89.646948 13.654389,3.118304 9.63839,5.10268 2.69308,3.449028 -25.277154,-10.063613 z"
@@ -241,7 +283,10 @@
        style="fill:#9b8f4d;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 102.98548,95.789061 c 0.37418,0.07484 -10.685421,-11.520342 -18.993308,-10.677827 0,0 5.609938,-2.12405 13.22712,3.956332 7.617178,6.080382 10.523738,8.552625 10.523738,8.552625 z"
        id="path894"
-       sodipodi:nodetypes="ccscc" />
+       sodipodi:nodetypes="ccscc"
+       inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+       inkscape:export-xdpi="72.244316"
+       inkscape:export-ydpi="72.244316" />
     <path
        style="fill:#bbb257;fill-opacity:0.988235;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 117.2645,77.541567 c 0,0 0.96886,-0.801808 3.69166,1.770661 2.72281,2.572469 2.38873,3.407686 2.38873,3.407686 l -3.842,0.15034 z"
@@ -250,7 +295,10 @@
        id="path896"
        style="fill:#5c6421;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 277.53906 26.390625 C 277.53906 26.390625 278.17031 61.619555 277.16016 68.185547 C 276.15 74.751539 268.57422 110.10742 268.57422 110.10742 L 277.72266 118.07227 C 286.43171 117.18584 295.9832 116.30763 304.51953 115.71484 C 305.6663 114.32844 306.7843 112.76125 307.84375 110.99023 C 316.30377 96.8481 300.51953 45.962891 300.51953 45.962891 C 300.51953 45.962891 296.35437 45.961603 289.66211 41.037109 C 282.96985 36.112619 277.53906 26.390625 277.53906 26.390625 z "
-       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)" />
+       transform="matrix(0.26458333,0,0,0.26458333,43.832203,70.559151)"
+       inkscape:export-filename="C:\Users\haroflow\Desktop\gomodoro-img.png"
+       inkscape:export-xdpi="72.244316"
+       inkscape:export-ydpi="72.244316" />
     <path
        id="path890"
        style="fill:#9d9745;fill-opacity:0.996078;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
